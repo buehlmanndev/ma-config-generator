@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.8.8.2">
+    <Macro Name="${MACRO_NAME}" Guid="6A 39 54 01 1D 99 10 03 43 01 7F 1A 8E A4 FD CC" Appearance="${APPEARANCE}">
+        <DependencyExport Size="1">
+            <Dependency Address="&apos;ShowData&apos;.&apos;Appearances&apos;.&apos;CTO&apos;" AddressNum="13.4.17">
+                <Appearance Name="${APPEARANCE_NAME}" Guid="6A 39 54 01 94 9C 10 03 C0 CE 64 F1 91 06 CA 51" Color="1.000000,0.750232,0.576923,1.000000" />
+            </Dependency>
+        </DependencyExport>
+        <MacroLine Command="${MACROLINE_COMMAND}" />
+    </Macro>
+</GMA3>

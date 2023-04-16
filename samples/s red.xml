@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.8.8.2">
+    <Macro Name="S RED" Guid="6A 39 54 01 CD D2 10 03 A4 9D B0 14 B5 A4 FD CC" Appearance="RED">
+        <DependencyExport Size="1">
+            <Dependency Address="&apos;ShowData&apos;.&apos;Appearances&apos;.&apos;RED&apos;" AddressNum="13.4.19">
+                <Appearance Name="RED" Guid="6A 39 54 01 5C 96 10 03 18 93 B8 99 8B 14 2F 6F" Color="1.000000,0.000000,0.000000,1.000000" />
+            </Dependency>
+        </DependencyExport>
+        <MacroLine Command="Go+ Sequence 13 Cue 4" />
+    </Macro>
+</GMA3>
